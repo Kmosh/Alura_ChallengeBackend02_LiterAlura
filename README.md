@@ -1,4 +1,4 @@
-<h1 align="center"> Practicando Spring Boot: Challenge 02 BackEnd Literalura </h1>
+<h1 align="center"> Challenge 02 BackEnd: Literalura </h1>
 
 La estructura secuencial es la siguiente:
 
